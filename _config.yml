@@ -24,7 +24,7 @@ description              : "놀면서 공부하자"
 url                      : "realordeal.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "C:\study\javademo\workspace\htmlstudy\WebContent\view\img" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "\study\javademo\workspace\htmlstudy\WebContent\view\img" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "C:\study\javademo\workspace\htmlstudy\WebContent\view\img" # Open Graph/Twitter default site image
+og_image                 : "\study\javademo\workspace\htmlstudy\WebContent\view\img" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -108,20 +108,20 @@ analytics:
 # Site Author
 author:
   name             : "Kim JeongKeun"
-  avatar           : "C:\study\javademo\workspace\htmlstudy\WebContent\view\img" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "\study\javademo\workspace\htmlstudy\WebContent\view\img" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "취직준비중."
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:shinsg0810@naver.com
+      url: mailto:realordeal0@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sekyushin.github.io"
+      url: "https://realordeal.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SekyuShin"
+      url: "https://github.com/realordeal"
 
 
 # Site Footer
